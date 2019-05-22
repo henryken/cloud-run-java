@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.henrysuryawirawan.demo.cloudrun.helloworld
+---
+testFramework: spek
+sourceLanguage: kotlin
